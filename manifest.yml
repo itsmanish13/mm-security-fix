@@ -1,0 +1,4 @@
+applications:
+- name: predix-sample-app
+  memory: 512M
+  path: target/sampleapp-0.0.1-SNAPSHOT.jar
